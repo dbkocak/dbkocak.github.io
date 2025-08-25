@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+> Last update: June, 2025
+
 {% include base_path %}
 
 <!-- ===== Inline PDF preview ===== -->
@@ -27,7 +29,5 @@ redirect_from:
   ></iframe>
 </div>
 
-> Last update: June, 2025
-> 
 ---
 
