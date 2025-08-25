@@ -27,7 +27,7 @@ redirect_from:
   ></iframe>
 </div>
 
-> If the preview doesn’t load on your device, use **Open PDF in new tab** above.
+> Last update: in June, 2025
 > 
 ---
 
