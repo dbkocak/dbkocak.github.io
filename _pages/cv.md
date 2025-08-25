@@ -27,7 +27,7 @@ redirect_from:
   ></iframe>
 </div>
 
-> Last update: in June, 2025
+> Last update in June, 2025
 > 
 ---
 
