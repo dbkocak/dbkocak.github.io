@@ -22,7 +22,7 @@ repository               : "dbkocak/dbkocak.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profilepic.jpeg"
+  avatar           : "profilepic.jpeg"
   name             : "Doğuş Berk Koçak"
   pronouns         : # example: "she/her"  
   bio              : "PhD student, Bayesian modeling, stochastic processes, sequential decision-making"
