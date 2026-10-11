@@ -9,7 +9,7 @@ category: manuscripts
 tags: [Bayesian, GLMM, Reliability]
 paperurl: https://repository.bilkent.edu.tr/items/a695c634-ed2f-4216-9e33-ac5f5be32f89
 website: https://repository.bilkent.edu.tr/items/a695c634-ed2f-4216-9e33-ac5f5be32f89
-excerpt: This thesis develops a **hierarchical Bayesian GLMM** for vehicle **interfailure times**, validated via **posterior predictive checks**. We then use a **Monte Carlo approximation** within an **MDP** to support **policy-making for workforce optimization** in maintenance planning.
+excerpt: This thesis develops a hierarchical Bayesian GLMM for modeling vehicle interfailure times. A Monte Carlo approximation is then employed within a Markov Decision Process (MDP) framework to address a sequential repair planning problem.
 ---
 
 
