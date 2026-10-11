@@ -25,9 +25,9 @@ author:
   avatar           : "profilepic.jpeg"
   name             : "Doğuş Berk Koçak"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student, Bayesian modeling, stochastic processes, sequential decision-making"
-  location         : "Ankara, Turkey"
-  employer         : "Bilkent University"
+  bio              : "PhD student"
+  location         : "Barcelona, Spain"
+  employer         : "IESE Business School"
   uri              : # URL
   email            : "berk.kocak@bilkent.edu.tr" 
 
