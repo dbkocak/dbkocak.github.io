@@ -20,7 +20,6 @@ author_profile: true
 
 ## Interests
 
-- Sequential decision-making and applications in operations research
-- Bayesian statistics
-- Stochastic processes
-
+- Stochastic Optimization
+- Sequential Decision-Making
+- Statistical Learning
