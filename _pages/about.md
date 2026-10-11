@@ -1,27 +1,29 @@
+
 ---
 permalink: /
 title: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
 # Welcome!
 
-I’m **Doğuş Berk Koçak**
+I'm **Doğuş Berk Koçak**, an MRM/PhD student in Operations at IESE Business School.
 
 ---
 
-## 🎓 Background
-- **BSc** — Industrial Engineering, Middle East Technical University (2022)  
+## Background
+
+- **PhD** — Operations, Information and Technology, IESE Business School (2026–Present)
 - **MSc** — Industrial Engineering, Bilkent University (2025)
-  - Thesis: *Predictive Modeling of Vehicle Failures with Hierarchical Bayesian Methods for Workforce Planning*
-  - 🔥 [View Thesis Online](https://repository.bilkent.edu.tr/items/a695c634-ed2f-4216-9e33-ac5f5be32f89)
+- **BSc** — Industrial Engineering, Middle East Technical University (2022)
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
+
 - Bayesian statistics
 - Stochastic processes
-- Sequential decision-making with various applications in operations research
+- Sequential decision-making and applications in operations research
