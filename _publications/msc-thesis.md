@@ -7,7 +7,7 @@ authors: "Doğuş Berk Koçak"
 venue: "MSc Thesis, Bilkent University"
 category: manuscripts
 tags: [Bayesian, GLMM, Reliability]
-paperurl: /files/Kocak_MSc_Thesis.pdf
+paperurl: https://repository.bilkent.edu.tr/items/a695c634-ed2f-4216-9e33-ac5f5be32f89
 website: https://repository.bilkent.edu.tr/items/a695c634-ed2f-4216-9e33-ac5f5be32f89
 excerpt: This thesis develops a **hierarchical Bayesian GLMM** for vehicle **interfailure times**, validated via **posterior predictive checks**. We then use a **Monte Carlo approximation** within an **MDP** to support **policy-making for workforce optimization** in maintenance planning.
 ---
